@@ -1,0 +1,11 @@
+/home/cafeina/source codes/DesignPatterns/Singleton/obj/Debug/netcoreapp2.2/Singleton.csprojAssemblyReference.cache
+/home/cafeina/source codes/DesignPatterns/Singleton/obj/Debug/netcoreapp2.2/Singleton.csproj.CoreCompileInputs.cache
+/home/cafeina/source codes/DesignPatterns/Singleton/obj/Debug/netcoreapp2.2/Singleton.AssemblyInfoInputs.cache
+/home/cafeina/source codes/DesignPatterns/Singleton/obj/Debug/netcoreapp2.2/Singleton.AssemblyInfo.cs
+/home/cafeina/source codes/DesignPatterns/Singleton/bin/Debug/netcoreapp2.2/Singleton.deps.json
+/home/cafeina/source codes/DesignPatterns/Singleton/bin/Debug/netcoreapp2.2/Singleton.runtimeconfig.json
+/home/cafeina/source codes/DesignPatterns/Singleton/bin/Debug/netcoreapp2.2/Singleton.runtimeconfig.dev.json
+/home/cafeina/source codes/DesignPatterns/Singleton/bin/Debug/netcoreapp2.2/Singleton.dll
+/home/cafeina/source codes/DesignPatterns/Singleton/bin/Debug/netcoreapp2.2/Singleton.pdb
+/home/cafeina/source codes/DesignPatterns/Singleton/obj/Debug/netcoreapp2.2/Singleton.dll
+/home/cafeina/source codes/DesignPatterns/Singleton/obj/Debug/netcoreapp2.2/Singleton.pdb
