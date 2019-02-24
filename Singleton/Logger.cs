@@ -1,18 +1,17 @@
-using Singleton.Extensions;
-
 namespace Singleton
 {
     public class Logger
     {
-        private static Logger logger = null;
         private Logger() {}
-        
-        public static Logger Get()
-        {
-            if (logger == null)
-                logger = new Logger();
 
-            return logger;
+        private static Logger instance = null;
+        public static Logger Instance
+        {
+            get {
+                if (instance == null)
+                    instance = new Logger();
+                return instance;
+            }
         }
     }
 }
