@@ -1,0 +1,9 @@
+/home/cafeina/source codes/DesignPatterns/Facade/FLIB/obj/Debug/netstandard2.0/FLIB.csprojAssemblyReference.cache
+/home/cafeina/source codes/DesignPatterns/Facade/FLIB/obj/Debug/netstandard2.0/FLIB.csproj.CoreCompileInputs.cache
+/home/cafeina/source codes/DesignPatterns/Facade/FLIB/obj/Debug/netstandard2.0/FLIB.AssemblyInfoInputs.cache
+/home/cafeina/source codes/DesignPatterns/Facade/FLIB/obj/Debug/netstandard2.0/FLIB.AssemblyInfo.cs
+/home/cafeina/source codes/DesignPatterns/Facade/FLIB/bin/Debug/netstandard2.0/FLIB.deps.json
+/home/cafeina/source codes/DesignPatterns/Facade/FLIB/bin/Debug/netstandard2.0/FLIB.dll
+/home/cafeina/source codes/DesignPatterns/Facade/FLIB/bin/Debug/netstandard2.0/FLIB.pdb
+/home/cafeina/source codes/DesignPatterns/Facade/FLIB/obj/Debug/netstandard2.0/FLIB.dll
+/home/cafeina/source codes/DesignPatterns/Facade/FLIB/obj/Debug/netstandard2.0/FLIB.pdb
