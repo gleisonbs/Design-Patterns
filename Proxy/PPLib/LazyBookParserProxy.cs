@@ -2,7 +2,7 @@ using System;
 
 namespace PPLib
 {
-    public class BookParserProxy : IBookParser
+    public class LazyBookParserProxy : IBookParser
     {
         private BookParser bookParser = null;
         public int PageCount
@@ -15,6 +15,6 @@ namespace PPLib
             }
         }
 
-        public BookParserProxy() {}
+        public LazyBookParserProxy() {}
     }
 }

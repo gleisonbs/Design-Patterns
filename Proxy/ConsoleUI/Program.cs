@@ -7,7 +7,7 @@ namespace ConsoleUI
     {
         static void Main(string[] args)
         {
-            IBookParser bookParser = new BookParserProxy();
+            IBookParser bookParser = new LazyBookParserProxy();
             Console.WriteLine(bookParser.PageCount);
         }
     }
